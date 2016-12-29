@@ -1,7 +1,7 @@
 Hello Git.......!!!
 
-Something change..
+Something change 1..
 
-Something change2..
+Something change 2..
 
-chang3
+Change 3
